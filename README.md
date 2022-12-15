@@ -1,10 +1,25 @@
-- 👋 Hi, I’m Leander van Aarde@LeandervanAarde26
-- 👀 I’m interested in Javascript related web development, Creative computing and most things front end...
-- 🌱 I’m currently learning the MERN stack...
-- 💞️ I’m looking to collaborate on anything that you would like to! If you want and I can...
-- 📫 How to reach me Leander.vaonline@gmail.com...
+<!-- HEADER SECTION -->
+<h2 align="center" style="padding:0;margin:0;">:technologist: Leander van Aarde</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF41&width=435&lines=Web+Developer)](https://git.io/typing-svg)
+<h6 align="center">DV200 - Term 1 SEO PROJECT| 2022</h6>
+</br>
+<p align="center">
 
-<!---
-LeandervanAarde26/LeandervanAarde26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <a href="https://github.com/LeandervanAarde/Brew-Co">
+    <img src="Assets/Logo-white.svg" alt="Logo" width="140" height="140">
+  </a>
+  
+  <h3 align="center">:beers: BREW CO. :beers:</h3> 
+
+  <p align="center">
+   A project created using The Open Brewery DB API, locating breweries through the use of HTML5, CSS3, JQuery 3.6.0 , Google Maps and bootstrap 5 <br>
+    <i>Go support Brew Co at <a href="https://brewcobreweries.com/index.html">Brewcobreweries.com</a></i> 
+    
+   <br />
+   <br />
+   <a href="path/to/demonstration/video">View Demo</a>
+    ·
+    <a href="https://github.com/LeandervanAarde/Brew-Co/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/LeandervanAarde/Brew-Co/issues">Request Feature</a>
+</p>
