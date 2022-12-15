@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <h2 align="left" style="padding:0;margin:0;">:technologist: Leander van Aarde</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=1400&lines=Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=1400&lines=Web+Developer" alt="Typing SVG" /></a>
 </br> 
 <h3> About me... </h3>
 
