@@ -1,7 +1,7 @@
 <!-- HEADER SECTION -->
 <h2 align="center" style="padding:0;margin:0;">:technologist: Leander van Aarde</h2>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=1400&lines=Web+Developer" alt="Typing SVG" /></a>
 
 <h6 align="center">DV200 - Term 1 SEO PROJECT| 2022</h6>
 </br>
