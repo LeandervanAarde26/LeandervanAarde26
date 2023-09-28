@@ -86,18 +86,66 @@ padding: 6px !important;
 ![image1](https://drive.google.com/uc?export=view&id=1DmPwYvurN0V54_Gn2AWDzovRIQcZYcvk)
  </div>
 
- <div class="project-card">
-    <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Project Image" class="project-image">
-    <div class="project-content">
-        <h2>Project Name</h2>
-        <p>Description of the project goes here. You can provide additional details about the project in this section.</p>
-        <a href="https://your-project-url" class="btn">Go to Project</a>
-    </div>
-</div>
+
  
 <span style="background-color: #3AFF00; padding: 10px; color: white"> View Repo</span>
 <span style="border: 2px solid  #3AFF00; padding: 10px;"> View Repo</span>
  
+</div>
+
+<style>
+    .project-card {
+        background: transparent;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+        border-radius: 5px;
+        padding: 20px;
+        text-align: center;
+        max-width: 300px; /* Adjust as needed */
+        margin: 0 auto; /* Center the card */
+    }
+
+    .project-image {
+        max-width: 100%;
+        height: auto;
+        border-radius: 5px;
+    }
+
+    .project-content {
+        margin-top: 20px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #4CAF50; /* Green background color */
+        color: #fff; /* White text color */
+        text-decoration: none;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+    }
+
+    .btn:hover {
+        background-color: #45a049; /* Darker green on hover */
+    }
+</style>
+
+ <div class="project-card">
+    <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr"   
+          alt="Project Image" class="project-image">
+    <div class="project-content">
+        <h2>Project Name</h2>
+        <p>Description of the project goes here. You can provide additional details about the 
+           project in this section.</p>
+        <a href="https://your-project-url" class="btn">Go to Project</a>
+    </div>
 </div>
 
 
