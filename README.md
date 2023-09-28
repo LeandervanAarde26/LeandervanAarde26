@@ -82,8 +82,18 @@ padding: 6px !important;
  
  <div> 
  
+ 
 ![image1](https://drive.google.com/uc?export=view&id=1DmPwYvurN0V54_Gn2AWDzovRIQcZYcvk)
  </div>
+
+ <div class="project-card">
+    <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Project Image" class="project-image">
+    <div class="project-content">
+        <h2>Project Name</h2>
+        <p>Description of the project goes here. You can provide additional details about the project in this section.</p>
+        <a href="https://your-project-url" class="btn">Go to Project</a>
+    </div>
+</div>
  
 <span style="background-color: #3AFF00; padding: 10px; color: white"> View Repo</span>
 <span style="border: 2px solid  #3AFF00; padding: 10px;"> View Repo</span>
