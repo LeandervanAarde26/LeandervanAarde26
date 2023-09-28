@@ -94,7 +94,7 @@ padding: 6px !important;
 </div>
 
 <div style="background: transparent; box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); border-radius: 5px; padding: 20px; text-align: center; max-width: 300px; margin: 0 auto;">
-    <img src="https://example.com/project-image.jpg" alt="Project Image" style="max-width: 100%; height: auto; border-radius: 5px;">
+    <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Logo" style="max-width: 100%; height: auto; border-radius: 5px;">
     <div style="margin-top: 20px;">
         <h2 style="font-size: 24px;">Project Name</h2>
         <p style="font-size: 16px;">Description of the project goes here. You can provide additional details about the project in this section.</p>
