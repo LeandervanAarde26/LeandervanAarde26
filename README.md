@@ -93,6 +93,11 @@ padding: 6px !important;
  
 </div>
 
+<div clas>
+
+
+<div style="display: flex; justify-content: space-between; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+    <div style="flex: 1; margin-right: 10px;">
 <div style="background: transparent; box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); border-radius: 5px; padding: 20px; text-align: center; max-width: 300px; margin: 0 auto;">
     <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Logo" style="max-width: 100%; height: auto; border-radius: 5px;">
     <div style="margin-top: 20px;">
@@ -101,6 +106,10 @@ padding: 6px !important;
         <a href="https://your-project-url" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: #fff; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;">Go to Project</a>
     </div>
 </div>
-
+    </div>
+    <div style="flex: 1;">
+        <!-- Card 2 content here -->
+    </div>
+</div>
 
 
