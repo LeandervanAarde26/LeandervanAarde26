@@ -95,42 +95,19 @@ padding: 6px !important;
 
 <div clas>
 
-<div style="flex: 1; margin-right: 10px; margin-bottom:10px">
-    <div style="background: transparent; box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); border-radius: 5px; padding: 20px; text-align: center; max-width: 300px; margin: 0 auto;">
-        <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Logo" style="max-width: 100%; height: auto; border-radius: 5px;">
-           <div style="margin-top: 20px;">
-            <h2 style="font-size: 24px;">Project Name</h2>
-            <p style="font-size: 16px;">Description of the project goes here. You can provide additional details about the project in this section.</p>
-            <a href="https://your-project-url" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: #fff; text-decoration: none; border-radius: 5px; 
-           transition: background-color 0.3s;">Go to Project</a>
-      </div>
-    </div>
+<div style="display: flex; justify-center: flex-start;">
+  <div style="margin-right: .25rem; margin-bottom: .5rem">
+    <h2>Open Overflow</h2>
+     <p style="font-size: 16px;">Description of the project goes here. You can provide additional details about the project in this section.</p>
+     <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Logo" style="max-width: 100%; height: 150px; border-radius: 5px;">
+   <div style="display: flex; justify-content: space-between">
+      <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/client"><img alt="OpenOverflowFrontEnd" title="Open Overflow front end" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+      <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/server"><img alt="Open Overflow Back end" title="Open Overflow Backend" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
+   </div>
 </div>
 
-<div style="flex: 1; margin-right: 10px; margin-bottom:10px">
-    <div style="background: transparent; box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); border-radius: 5px; padding: 20px; text-align: center; max-width: 300px; margin: 0 auto;">
-        <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Logo" style="max-width: 100%; height: auto; border-radius: 5px;">
-           <div style="margin-top: 20px;">
-            <h2 style="font-size: 24px;">Project Name</h2>
-            <p style="font-size: 16px;">Description of the project goes here. You can provide additional details about the project in this section.</p>
-            <a href="https://your-project-url" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: #fff; text-decoration: none; border-radius: 5px; 
-           transition: background-color 0.3s;">Go to Project</a>
-      </div>
-    </div>
-</div>
 
-<div style="flex: 1; margin-right: 10px; margin-bottom:10px">
-    <div style="background: transparent; box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); border-radius: 5px; padding: 20px; text-align: center; max-width: 300px; margin: 0 auto;">
-        <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Logo" style="max-width: 100%; height: auto; border-radius: 5px;">
-           <div style="margin-top: 20px;">
-            <h2 style="font-size: 24px;">Project Name</h2>
-            <p style="font-size: 16px;">Description of the project goes here. You can provide additional details about the project in this section.</p>
-            <a href="https://your-project-url" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: #fff; text-decoration: none; border-radius: 5px; 
-           transition: background-color 0.3s;">Go to Project</a>
-      </div>
-    </div>
 </div>
-      
 
 
 
