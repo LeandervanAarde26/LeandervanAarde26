@@ -73,7 +73,7 @@ const Leander = {
         <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Logo" style="max-width: 100%;     
               height: 150px; border-radius: 5px;">
         <div style="display: flex; justify-content: space-between">
-        <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/client"><img alt="Front end" title="Open Overflow"              src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-          badge&logo=code&logoSource=feather"/></a>
+        <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/client"><img alt="Front end" title="Open Overflow"              src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/></a>
         <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/server"><img alt="Front end" title="Open Overflow"              src="https://custom-icon-badges.demolab.com/badge/View%20back%20end-blue.svg?style=for-the-badge&logo=code&logoSource=feather"/></a>
    </div>
 </div>
