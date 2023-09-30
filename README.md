@@ -69,9 +69,9 @@ const Leander = {
 <div style="display: flex; justify-center: flex-start;">
     <div style="margin-right: .25rem; margin-bottom: .5rem">
         <h2>Open Overflow</h2>
-        <p style="font-size: 16px;">Description of the project goes here. You can provide additional details about the project in this           section.</p>
-        <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Logo" style="max-width: 100%;     
+        <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Logo" style="max-width: 100%;    
               height: 80px; margin-bottom: 20px; border-radius: 5px;">
+        <p style="font-size: 16px;">Description of the project goes here. You can provide additional details about the project in this section.</p>
         <div style="display: flex; justify-content: space-between">
         <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/client">
           <img alt="Front end" title="Open Overflow"              
@@ -86,9 +86,9 @@ const Leander = {
 
 <div style="margin-right: .25rem; margin-bottom: .5rem">
         <h2>Fin Finder</h2>
-        <p style="font-size: 16px;">Description of the project goes here. You can provide additional details about the project in this           section.</p>
-        <img src="https://drive.google.com/uc?export=view&id=1Phfxt9EimjoTJtZxN_6EihLqOA8emI3T" alt="Logo" style="max-width: 100%;     
+        <img src="https://drive.google.com/uc?export=view&id=1Phfxt9EimjoTJtZxN_6EihLqOA8emI3T" alt="Logo" style="max-width: 100%;    
               height: 80px; margin-bottom: 20px; border-radius: 5px;">
+        <p style="font-size: 16px;">Description of the project goes here. You can provide additional details about the project in this section.</p>
         <div style="display: flex; justify-content: space-between">
         <a href="https://github.com/LeandervanAarde/FinFinder">
           <img alt="Front end" title="Open Overflow"              
