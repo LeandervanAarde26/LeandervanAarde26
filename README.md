@@ -101,9 +101,10 @@ padding: 6px !important;
      <p style="font-size: 16px;">Description of the project goes here. You can provide additional details about the project in this section.</p>
      <img src="https://drive.google.com/uc?export=view&id=1xBr2NxxFOauw1FDt6jiUYLSzXYuUIRNr" alt="Logo" style="max-width: 100%; height: 150px; border-radius: 5px;">
    <div style="display: flex; justify-content: space-between">
-      <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/client"><img alt="OpenOverflowFrontEnd" title="Open Overflow front end" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+
       <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/server"><img alt="Open Overflow Back end" title="Open Overflow Backend" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
-      <a href=""><img alt="Amiibo Party Backend" title="Amiibo Party Backend" src="https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a>
+     
+<a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/client"><img alt="Front end" title="Amiibo Party Backend" src="[https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo](https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?logo=code&logoSource=feather)https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?logo=code&logoSource=feather"/></a>
    </div>
 </div>
 
