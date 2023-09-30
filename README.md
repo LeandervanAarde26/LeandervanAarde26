@@ -104,7 +104,7 @@ padding: 6px !important;
 
       <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/server"><img alt="Open Overflow Back end" title="Open Overflow Backend" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
      
-<a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/client"><img alt="Front end" title="Amiibo Party Backend" src="[https://custom-icon-badges.demolab.com/badge/-Backend-yellow?style=for-the-badge&logoColor=white&logo=repo](https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?logo=code&logoSource=feather)https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?logo=code&logoSource=feather"/></a>
+<a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/client"><img alt="Front end" title="Open Overflow" src="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/clientr"/></a>
    </div>
 </div>
 
