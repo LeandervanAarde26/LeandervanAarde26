@@ -90,11 +90,11 @@ const Leander = {
         <img src="https://drive.google.com/uc?export=view&id=1Phfxt9EimjoTJtZxN_6EihLqOA8emI3T" alt="Logo" style="max-width: 100%;     
               height: 80px; margin-bottom: 20px; border-radius: 5px;">
         <div style="display: flex; justify-content: space-between">
-        <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/client">
+        <a href="https://github.com/LeandervanAarde/FinFinder">
           <img alt="Front end" title="Open Overflow"              
               src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
         </a>
-        <a href="https://github.com/LeandervanAarde26/openwindowoverflow/tree/main/server">
+        <a href="https://github.com/LeandervanAarde/FinFinderServer">
           <img alt="Front end" title="Open Overflow"              
                 src="https://custom-icon-badges.demolab.com/badge/View%20back%20end-blue.svg?style=for-the-badge&logo=code&logoSource=feather"/>
         </a>
