@@ -97,6 +97,22 @@ const Leander = {
         </a>
      </div>
   </div>
+    <div style="margin-right: .25rem; margin-bottom: .5rem">
+        <h2>Universe</h2>
+        <img src="https://drive.google.com/uc?export=view&id=15_DEJzIgXbbz7QlzYkljBMaJi3blx9Xv" alt="Logo" style="max-width: 100%;    
+              height: 70px; margin-bottom: 20px; border-radius: 5px;">
+        <p style="font-size: 16px;">Description of the project goes here. You can provide additional details about the project in this section.</p>
+        <div style="display: flex; justify-content: space-between">
+        <a href="https://github.com/LeandervanAarde/UniVerse">
+          <img alt="Front end" title="Universe front end"              
+              src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
+        </a>
+        <a href="https://github.com/LeandervanAarde/UniVerserver">
+          <img alt="Front end" title="Universe"              
+                src="https://custom-icon-badges.demolab.com/badge/View%20back%20end-blue.svg?style=for-the-badge&logo=code&logoSource=feather"/>
+        </a>
+     </div>
+  </div>
 </div>
 
 
