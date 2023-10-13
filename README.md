@@ -196,7 +196,7 @@ UniVerse is a powerful and flexible tool that can help schools of all sizes stre
 
   <div style="margin-right: .25rem; margin-bottom: .5rem">
         <h2>NHL</h2>
-            <img src="https://drive.google.com/uc?export=view&id=1LDzI0HbSKYW6aXMPRkqqfK-CIuXQP_L6" alt="Logo" style="max-width: 100%;    
+            <img src="https://raw.githubusercontent.com/LeandervanAarde26/nhl/main/public/Assets/Logo.svg" alt="Logo" style="max-width: 100%;    
               height: 80px; margin-bottom: 20px; border-radius: 5px;">
 </br>
 </br>
@@ -226,7 +226,6 @@ CHEL is a valuable tool for NHL fans of all levels. It is a great way to stay up
           <img alt="Front end" title="NHL"              
               src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
         </a>
-
      </div>
   </div>
 </div>
