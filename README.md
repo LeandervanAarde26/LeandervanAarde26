@@ -192,6 +192,43 @@ UniVerse is a powerful and flexible tool that can help schools of all sizes stre
         </a>
      </div>
   </div>
+
+
+  <div style="margin-right: .25rem; margin-bottom: .5rem">
+        <h2>NHL</h2>
+            <img src="https://drive.google.com/uc?export=view&id=1LDzI0HbSKYW6aXMPRkqqfK-CIuXQP_L6" alt="Logo" style="max-width: 100%;    
+              height: 80px; margin-bottom: 20px; border-radius: 5px;">
+</br>
+</br>
+## CHEL: A Web-Based NHL Statistics Tracker
+
+CHEL is a web-based application that tracks the statistics of NHL players and teams. Users can view the top teams in the league, compare player and team statistics, and track player performance over their careers. Live scores are updated daily to show the latest scores from the past 24 hours.
+
+**Features:**
+
+* Up-to-date NHL statistics: CHEL uses the NHL-API to get the most relevant and up-to-date NHL data.
+* Player and team comparisons: Users can compare player and team data using chartsjs to get a visual idea of how players and teams stack up.
+* Live scores: CHEL shows the latest and most up-to-date scores from the past 24 hours.
+
+**Benefits:**
+
+* CHEL is a one-stop shop for NHL fans who want to stay up-to-date on the latest statistics and scores.
+* CHEL's player and team comparisons make it easy to see how players and teams compare to each other.
+* CHEL's live scores ensure that users never miss a beat.
+
+**Example:**
+
+A hockey fan can use CHEL to compare the statistics of Auston Matthews and Conor McDavid, two of the best players in the NHL. They can also compare the statistics of the Toronto Maple Leafs and the Edmonton Oilers, two of the best teams in the NHL. Additionally, they can use CHEL to track the performance of their favorite players over the course of their careers.
+
+CHEL is a valuable tool for NHL fans of all levels. It is a great way to stay up-to-date on the latest statistics and scores, compare player and team performance, and track the performance of your favorite players.
+        <div style="display: flex; justify-content: space-between">
+        <a href="https://github.com/LeandervanAarde26/nhl">
+          <img alt="Front end" title="NHL"              
+              src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
+        </a>
+
+     </div>
+  </div>
 </div>
 
 
