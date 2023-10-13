@@ -16,7 +16,7 @@ const Leander = {
   code: [Javascript, CircuitPython, SwiftUI, Kotlin, HTML, CSS],
   tools: [React, Node, RasberryPi, Components, Jest, Heroku, Express, MongoDB, Angular, Jquery, Bootstrap, Scss, SocketIO, AWS],
   currentChallenge: "Learning to improve on my own code in order to get the best outcome, I am also currently learning angular!"
-  Experience: "1 week internship at glucode , an iOS development company based in Sandton" 
+  Experience: ["3 week internship at glucode , an iOS development company based in Sandton", "4 week internship at Big Brave, a web development company" ]
 }
 ```
 <hr style="height: 
