@@ -44,7 +44,11 @@ const Leander = {
 <br/>
 <br/>
 <br/>
-
+<div style="display: flex; justify-content: space-between">
+  <a href="https://www.linkedin.com/in/leander-van-aarde-7771b3246/">
+    <img alt="Button" title="Liniked in" src="https://custom-icon-badges.demolab.com/badge/-My%20LinkedIn-blue?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</div>
 
 <h3> Top Repos </h3>
 <hr style="height: 
