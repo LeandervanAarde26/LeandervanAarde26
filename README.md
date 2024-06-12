@@ -56,8 +56,8 @@ const Leander = {
 
 <div  style="display: flex; flex-direction: row">
   
-![Leander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandervanAarde&show_icons=true&theme=shadow_green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandervanAarde&hide=php&theme=shadow_green) 
+![Leander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandervanAarde26&show_icons=true&theme=shadow_green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandervanAarde26&hide=php&theme=shadow_green) 
   
 </div>
 
