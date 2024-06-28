@@ -1,29 +1,20 @@
-<!-- HEADER SECTION -->
-<h2 align="left" style="padding:0;margin:0;">:technologist: Leander van Aarde</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=1400&lines=Web+Developer" alt="Typing SVG" /></a>
-</br> 
+## :technologist: Leander van Aarde
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=1400&lines=Developer" alt="Typing SVG" /></a>
 
-### About Me
-
-<p align="left" > I am a web developer currently studying at the OpenWindow in order to obtain my BA in Creative Technologies! I am pursuing a career as a full stack developer mainly focused on Javascript technologies. All my projects are carefully planned and created by me, ocassionally working on collaboration projects, my main focus is web development, and area in which I can create attractive websites for any client with a UX journey in mind, giving a user an easy and pleasurable experience on each of my projects </p>
-
-<h4 align="left" >:man_student: Student at <a href="https://www.openwindow.co.za/ ">The OpenWindow </a></h4>
+## About me
+I am a South African Web Developer with a Bachelor of Arts in `Creative techonologies` with a focus on Interactive Development, pursuing a career in Full Stack Developent. Currently my knowledge base lies greatly within the Javascript eco-system, but I have a great interest lying within the C#/dotnet echo system. All my projects are carefully planned and crafted to create a good user experience and are always undergoing improvements for optimisation. My main focus currently lies within web, but I would like to learn more about systems. 
 
 ```javascript
-const Leander = {
-  pronouns: "He" | "Him",
-  birthday: 26 March 2001,
-  code: [Javascript, CircuitPython, SwiftUI, Kotlin, HTML, CSS],
-  tools: [React, Node, RasberryPi, Components, Jest, Heroku, Express, MongoDB, Angular, Jquery, Bootstrap, Scss, SocketIO, AWS],
-  currentChallenge: "Learning to improve on my own code in order to get the best outcome, I am also currently learning angular!"
-  Experience: ["3 week internship at glucode , an iOS development company based in Sandton", "4 week internship at Big Brave, a web development company" ]
-}
+    Developer me = new Developer{
+        Age = 26, 
+        Backend = new List<String>>("Javascript", "TypeScript", "C#", "Python"),
+        FrontEnd = new List<String>("Javascript", "SwiftUI"),
+        Tools = new List<String>("React", "Angular", "Express", "Node", "MongoDB", "Postgres", "MUI", "FASTAPI", "DotNet 8", "MUI", "TailWind", "SCSS"),
+        Experience = new List<String> ("1 Month internship at Glucode, Frontend IOS company", "1 Month internship at Big Brave, a front-end centric web development company")
+        CurrentEmployment = "Lucky Beard Junior Engineer", 
+        
+    }
 ```
-<hr style="height: 
-1.5px; background-color: #3AFF00;" />
-
-### Explored Technologies
-
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Scss" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/317889?v=4" />
@@ -36,30 +27,17 @@ const Leander = {
 <img align="left" alt="bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="ex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="jquery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-<img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <br/>
 <br/>
 
+### Additional certifications 
+- SQL certification (Udemy) using PostgresSQL
+- AWS CCP (IN PROGRESS)
 
-<div style="display: flex; justify-content: space-between; justify-content: center; align-items:center; gap: 10px">
-  <a href="https://www.linkedin.com/in/leander-van-aarde-7771b3246/">
-    <img alt="Button" title="Liniked in" src="https://custom-icon-badges.demolab.com/badge/-My%20LinkedIn-blue?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</div>
-
-<br/>
-<br/>
-
-<div  style="display: flex; flex-direction: row">
-  
 ![Leander's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandervanAarde26&show_icons=true&theme=shadow_green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandervanAarde26&hide=php&theme=shadow_green) 
-  
-</div>
 
 
 <h3> Top Repos </h3>
@@ -139,7 +117,7 @@ Stencil is a valuable tool for both tattoo enthusiasts and tattoo artists. It is
      </div>
   </div>
     <div style="margin-right: .25rem; margin-bottom: .5rem">
-        <h2>Universe</h2>
+        <h2>Universe(Reworking BE)</h2>
                     <img src="https://drive.google.com/uc?export=view&id=15_DEJzIgXbbz7QlzYkljBMaJi3blx9Xv" alt="Logo" style="max-width: 100%;    
               height: 70px; margin-bottom: 20px; border-radius: 5px;">
     </br>
